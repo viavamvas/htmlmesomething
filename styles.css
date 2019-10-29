@@ -1,0 +1,42 @@
+
+html {
+	margin: 0;
+	padding: 0; 
+	}
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	margin: 0; 
+	padding: 0;
+	}
+h1{
+	font: georgia, sans-serif;
+	color: #216260;
+	margin-top: 0; 
+	text-align: center;
+}	
+p { 
+  display: block;
+  padding: 0%;
+	font: georgia, sans-serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em; 
+  text-align: center;
+  font-size: 14px;
+	}
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+body{
+  background-color: azure;
+  text-align: center;
+}
+img{
+width: 700px;
+}
